@@ -19,8 +19,11 @@ Which variables are significant in predicting the price of a house, and
 
 How well those variables describe the price of a house.
 
+Data file used is train.csv
+
 
 ## Conclusions
+Data visualization , data cleansing , model building and evaluation steps are followed and delivered in Notebook
 - Ridge and Lasso ALPHA vlaues are 2 and 0.00011
 - Features that impact the model are the ones menitoned below
 - One with + ve increase the Sale price while one with -ve coefficients tends to decrease rest which are zero are omited list is mentioned below
