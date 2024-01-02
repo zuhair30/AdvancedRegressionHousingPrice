@@ -22,8 +22,8 @@ How well those variables describe the price of a house.
 
 ## Conclusions
 - Ridge and Lasso ALPHA vlaues are 2 and 0.00011
-- there are around 85 variables that impact the model out of more than 200 columns
-- the ones with + ve and -ve coefficients are mentioned below
+- Features that impact the model are the ones menitoned below
+- One with + ve increase the Sale price while one with -ve coefficients tends to decrease rest which are zero are omited list is mentioned below
 ################
 Positive Coefficients
 OverallQual
